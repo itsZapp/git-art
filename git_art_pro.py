@@ -3,7 +3,7 @@ import sys
 import subprocess
 from datetime import datetime, timedelta
 
-START_DATE = datetime(2023, 12, 31)
+START_DATE = datetime(2025, 4, 6)
 CANVAS_WEEKS = 52
 HEIGHT = 7
 REPO_PATH = "."
